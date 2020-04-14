@@ -1,0 +1,15 @@
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\bin\Debug\WPFDemo_CodeSample.exe.config
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\bin\Debug\WPFDemo_CodeSample.exe
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\bin\Debug\WPFDemo_CodeSample.pdb
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample.csprojAssemblyReference.cache
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\App.g.cs
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample_MarkupCompile.cache
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample_MarkupCompile.lref
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample.g.resources
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample.Properties.Resources.resources
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample.csproj.GenerateResource.cache
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample.exe
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\WPFDemo_CodeSample.pdb
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\Views\MainWindow.g.cs
+C:\Users\steve\Documents\Projects\WPF\WPFDemo_CodeSample\WPFDemo_CodeSample\obj\Debug\Views\MainWindow.baml
